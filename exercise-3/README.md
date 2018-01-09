@@ -8,7 +8,10 @@ Learn the basics of git workflow:
 2. clone it to your laptop  
 `git clone ...`
 
-3. add greetings on top of this file.  Feel free to do more changes!
+3. TODO:
+> 1. Homework
+  2. Workout
+  3. Work on Resume 
 
 4. commit your changes:  
 `git commit -am "<explain what did you do>"`
